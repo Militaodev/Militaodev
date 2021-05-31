@@ -9,5 +9,7 @@ About me:
 <br>
 🔗 - Sharing a little of my Projects at my [Discord](https://discord.gg/cz78unW4Ye)!
 <br>
+<div>
 ![Militaodev GitHub stats](https://github-readme-stats.vercel.app/api?username=Militaodev&show_icons=true&theme=dark) <br /><br /> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Militaodev&langs_count=8&theme=dark)
+<div/>
