@@ -10,6 +10,6 @@ About me:
 🔗 - Sharing a little of my Projects at my [Discord](https://discord.gg/cz78unW4Ye)!
 <br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Militaodev&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Militaodev&show_icons=true&theme=dark" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Militaodev&langs_count=8&theme=dark"/>
 <div/>
