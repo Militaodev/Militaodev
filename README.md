@@ -8,4 +8,4 @@ About me:
 My discord ! vRP.MilitaoX#9976
 🔗 - Sharing a little of my Projects at my [Discord](https://discord.gg/cz78unW4Ye)!
 ![Militaodev GitHub stats](https://github-readme-stats.vercel.app/api?username=Militaodev&show_icons=true&theme=dark) <br /><br /> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Militaodev&langs_count=8&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Militaodev&langs_count=8&theme=dark)
