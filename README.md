@@ -8,7 +8,7 @@ About me:
 <img src = "https://discord.c99.nl/widget/theme-3/711666063611396126.png">
 <br>
 🔗 - Sharing a little of my Projects at my 
-[Discord](https://discord.gg/cz78unW4Ye)!
+<a href="https://discord.gg/cz78unW4Ye">Discord</a>
 <br><br>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Militaodev&show_icons=true&theme=dark" /><br>
