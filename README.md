@@ -14,4 +14,6 @@ About me:
   <img src="https://github-readme-stats.vercel.app/api?username=Militaodev&show_icons=true&theme=dark" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Militaodev&langs_count=8&theme=dark"/>
 <div/>
+  <div>
   ![Snake animation](https://github.com/Militaodev/Militaodev/blob/output/github-contribution-grid-snake.svg)
+  </div>
