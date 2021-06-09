@@ -2,8 +2,8 @@ Hi
 About me:
 ***
 ```
-🔭 I’m 13 years old <br>
-🌱 I’m currently learning a lot about JavaScript ,C#, Lua <br>
+🔭 I’m 13 years old
+🌱 I’m currently learning a lot about JavaScript ,C#, Lua
 💬 Ask me about what you want to
 ```
 <img src = "https://discord.c99.nl/widget/theme-3/711666063611396126.png">
