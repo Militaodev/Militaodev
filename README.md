@@ -14,7 +14,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Militaodev&show_icons=true&theme=dark" /><br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Militaodev&langs_count=8&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Militaodev&langs_count=8&theme=dark" style="padding-top:0.5vw"/>
   <br>
 <div/>
   <div>
