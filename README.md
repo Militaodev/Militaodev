@@ -6,7 +6,7 @@ About me:
 🌱 I’m currently learning a lot about JavaScript ,C#, Lua
 💬 Ask me about what you want to
 ```
-<img src = "https://discord.c99.nl/widget/theme-2/711666063611396126.png">
+<img src = "https://discord.c99.nl/widget/theme-5/711666063611396126.png">
 <br>
 🔗 - Sharing a little of my Projects at my 
 <a href="https://discord.gg/cz78unW4Ye">Discord</a>
