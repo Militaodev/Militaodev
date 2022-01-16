@@ -1,4 +1,4 @@
-<h1>Olá meu nome é <b>Pedro<b/> tenho 14 anos comecei a programar no fivem, tive meu primeiro contato com progamação no final de 2020 e hoje eu gosto de programar e estou estudando para sair do fivem.Espero que gostem dos meus projetos <h1/>
+<h2>Olá meu nome é <b>Pedro<b/> tenho 14 anos comecei a programar no fivem, tive meu primeiro contato com progamação no final de 2020 e hoje eu gosto de programar e estou estudando para sair do fivem.Espero que gostem dos meus projetos <h2/>
 <img src = "https://discord.c99.nl/widget/theme-3/711666063611396126.png">
 <br>
   <h3>Linguagens que eu trabalho com o fivem<h3/>
