@@ -5,7 +5,7 @@ About me:
 🔭 I’m 14 years old
 🌱 I’m currently learning a lot about JavaScript ,React, Lua
 ```
-<img src = "https://discord.c99.nl/widget/theme-5/711666063611396126.png">
+<img src = "https://discord.c99.nl/widget/theme-3/711666063611396126.png">
 <br>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Militaodev&show_icons=true&theme=dark" /><br>
