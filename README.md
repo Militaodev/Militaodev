@@ -4,7 +4,7 @@
   Olá meu nome é <b>Pedro<b/> tenho 14 anos comecei a programar no fivem, tive meu primeiro contato com progamação no final de 2020 e hoje eu gosto de programar e estou estudando para ser um desenvolvedor full-stack.Espero que gostem dos meus projetos.
   
 <br>
-  <h3>Linguagens que eu trabalho com o fivem<h3/>
+  <h3>Linguagens que eu trabalho para o fivem<h3/>
  <br>
    Lua | JavaScript | HTML5 | CSS3 |
 | --------- | --------- | --------- | --------- |
