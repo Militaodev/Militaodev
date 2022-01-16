@@ -1,12 +1,13 @@
-Hi
-About me:
-***
-```
-🔭 I’m 14 years old
-🌱 I’m currently learning a lot about JavaScript ,React, Lua
-```
+<h1>Olá meu nome é <b>Pedro<b/> tenho 14 anos comecei a programar no fivem, tive meu primeiro contato com progamação no final de 2020 e hoje eu gosto de programar e estou estudando para sair do fivem.Espero que gostem dos meus projetos <h1/>
 <img src = "https://discord.c99.nl/widget/theme-3/711666063611396126.png">
 <br>
+  <h3>Linguagens que eu trabalho com o fivem<h3/>
+  
+   Lua | JavaScript | HTML5 | CSS3 |
+| --------- | --------- | --------- | --------- |
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="70vw" height="70vh"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="70vw" height="70vh"> | <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="70vw" height="70vh"> | <img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" width="70vw" height="70vh"> |
+  
+  <br>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Militaodev&show_icons=true&theme=dark" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Militaodev&langs_count=8&theme=dark"/>
